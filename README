@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 Aqui está o README formatado para você copiar e colar diretamente:
 
+=======
+>>>>>>> 110e206a361dcabd312acda706f2046fd9e9dc6c
 # 🎟️ Sistema de Compra de Ingressos
 
 Bem-vindo ao **Sistema de Compra de Ingressos**! Este projeto é uma aplicação web simples e eficiente, desenvolvida em JavaScript, que permite aos usuários comprar ingressos para diferentes setores de um evento. O sistema verifica a disponibilidade de ingressos em tempo real e ajusta a quantidade disponível conforme as compras são efetuadas.
